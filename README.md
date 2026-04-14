@@ -1,8 +1,8 @@
 # 🎨 UI System (Vue-based Publishing Structure)
 
 <p align="left">
-  <a href="#-korean">🇰🇷 한국어 가이드</a> | 
-  <a href="#-english">🇺🇸 English Guide</a>
+  <a href="#korean">🇰🇷 한국어 가이드</a> | 
+  <a href="#english">🇺🇸 English Guide</a>
 </p>
 
 ---
