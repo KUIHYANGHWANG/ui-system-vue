@@ -11,7 +11,9 @@
 
 ## 🇰🇷 프로젝트 개요 (KOR)
 
-단순한 마크업 작업을 넘어, **Vue.js 기반의 컴포넌트 설계**를 통해 디자인 시스템의 일관성을 유지하고 개발 효율성을 극대화하는 퍼블리싱 가이드를 지향합니다. 재사용 가능한 구조와 논리적인 스타일링을 통해 **비즈니스 로직과 UI 레이어의 완벽한 분리**를 목표로 합니다.
+단순한 마크업 작업을 넘어, **Vue.js 기반의 컴포넌트 설계**를 통해 디자인 시스템의 일관성을 유지하고 개발 효율성을 극대화하는 퍼블리싱 가이드를 지향합니다.
+
+**재사용 가능한 구조**와 **논리적인 스타일링**을 구현하여 비즈니스 로직과 UI 레이어의 완벽한 분리를 목표로 합니다.
 
 ### 🧱 핵심 설계 원칙
 
@@ -33,7 +35,9 @@
 
 ## 🇺🇸 Project Overview (ENG)
 
-Beyond simple markup, this project aims to establish a **Vue.js-based component architecture** to ensure design consistency and maximize development efficiency. The goal is to achieve a perfect separation between **business logic and the UI layer** through reusable structures and logical styling.
+This project goes beyond simple markup to establish a **Vue.js-based component architecture**, ensuring design consistency and maximizing development efficiency.
+
+Our goal is to achieve a **complete separation between business logic and the UI layer** through reusable structures and logical styling systems.
 
 ### 🧱 Core Concepts & Structure
 
