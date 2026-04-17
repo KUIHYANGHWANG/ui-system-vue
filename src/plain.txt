@@ -1,0 +1,8 @@
+# <Type>: <Description>
+
+feat:     Add new UI component or page
+fix:      Fix a CSS bug or layout issue
+design:   Change CSS/SCSS styles (colors, spacing)
+docs:     Changes in documentation (README)
+refactor: Improve markup or SCSS structure without changing UI
+chore:    Update build tasks, directory structure, or packages
